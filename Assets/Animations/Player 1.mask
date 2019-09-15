@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player 1
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Model
+    m_Weight: 0
+  - m_Path: Model/Turret
+    m_Weight: 0
+  - m_Path: Model/Turret/TowerBox
+    m_Weight: 1
+  - m_Path: Model/Turret/Cannon
+    m_Weight: 1
+  - m_Path: Model/Turret/Cannon/Barrel
+    m_Weight: 1
+  - m_Path: Model/Turret/Cannon/Muzzle
+    m_Weight: 1
+  - m_Path: Model/Turret/Cannon/Trajectory
+    m_Weight: 1
+  - m_Path: Model/Chassis
+    m_Weight: 1
+  - m_Path: Model/Chassis/FireComplex
+    m_Weight: 1
+  - m_Path: Model/Chassis/FireComplex/Fire
+    m_Weight: 1
+  - m_Path: Model/Chassis/FireComplex/Flames
+    m_Weight: 1
+  - m_Path: Model/Chassis/FireComplex/Glow
+    m_Weight: 1
+  - m_Path: Model/Chassis/FireComplex/SmokeDark
+    m_Weight: 1
+  - m_Path: Model/Chassis/FireComplex/SmokeLit
+    m_Weight: 1
+  - m_Path: Model/Chassis/FireComplex/SparksFalling
+    m_Weight: 1
+  - m_Path: Model/Chassis/FireComplex/SparksRising
+    m_Weight: 1
+  - m_Path: Model/Chassis/FireComplex/Light
+    m_Weight: 1
+  - m_Path: Model/Chassis/Steam
+    m_Weight: 1
+  - m_Path: HealthBar
+    m_Weight: 0
+  - m_Path: HealthBar/Slider
+    m_Weight: 1
+  - m_Path: HealthBar/Slider/Background
+    m_Weight: 1
+  - m_Path: HealthBar/Slider/Fill Area
+    m_Weight: 1
+  - m_Path: HealthBar/Slider/Fill Area/Fill
+    m_Weight: 1
